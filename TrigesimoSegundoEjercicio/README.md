@@ -1,25 +1,41 @@
-# Deadpool vs Wolverine: Simulación de Batalla
+# 🧠 Deadpool vs Wolverine: Simulación de Batalla
 
-Este ejercicio consiste en crear un programa que simule una batalla por turnos entre Deadpool y Wolverine. Cada personaje tiene características únicas de ataque, evasión y regeneración.
+Este proyecto simula una épica batalla por turnos entre **Deadpool** y **Wolverine**. Cada personaje tiene sus propias habilidades de ataque, evasión y comportamiento al recibir daño máximo.
 
-## Requisitos
+---
 
-1. El usuario debe ingresar la vida inicial de cada personaje.
-2. Daño de ataque por turno:
-    - **Deadpool:** Daño aleatorio entre 10 y 100.
-    - **Wolverine:** Daño aleatorio entre 10 y 120.
-3. Si un personaje recibe el daño máximo posible, no podrá atacar en el siguiente turno (debe regenerarse, pero no recupera vida).
-4. Probabilidad de esquivar ataques:
-    - **Deadpool:** 25%
-    - **Wolverine:** 20%
-5. Un personaje pierde cuando su vida llega a cero o menos.
+## 🎮 ¿Cómo Funciona?
 
-## Acciones del Programa
+- El usuario ingresa la vida inicial de cada personaje.
+- En cada turno:
+  - Se decide aleatoriamente si el personaje logra esquivar el ataque.
+  - Se calcula un daño aleatorio dentro de su rango.
+  - Si recibe el **máximo daño posible**, **pierde su turno siguiente (regeneración sin curación)**.
+- El combate continúa hasta que uno de los dos llegue a 0 de vida.
 
-- Simular la batalla por turnos.
-- Mostrar el número de turno (con pausa de 1 segundo entre turnos).
-- Mostrar los eventos de cada turno (ataques, esquivas, regeneraciones).
-- Mostrar la vida actual de cada personaje en cada turno.
-- Mostrar el resultado final de la batalla.
+---
 
-¡Desarrolla el programa y descubre quién gana esta épica pelea!
+## 📊 Reglas del Juego
+
+### 🎯 Daño de Ataque por Turno
+
+    **Deadpool**: 10 - 100
+    **Wolverine**: 10 - 120
+
+### 🛡️ Probabilidad de Esquivar
+
+    **Deadpool**: 25%
+    **Wolverine**: 20%
+
+### 💥 Regla Especial
+
+> Si un personaje recibe **el daño máximo posible**, en el siguiente turno **no puede atacar** (está regenerándose).
+
+---
+
+## 🚀 Cómo Ejecutar
+
+Asegúrate de tener Java instalado.
+
+    javac *.java
+    java Main
