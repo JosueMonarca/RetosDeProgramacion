@@ -1,0 +1,34 @@
+[
+    {
+        "nombre":"kirito",
+        "Estadisticas":{
+            "Fuerza":123,
+            "velocidad":123,
+            "Items":[{
+                    "nombre":"escalibur",
+                    "atributos":{
+                        "filo":"Alto",
+                        "veneno": false,
+                        "Duravilidad":"Alta"
+                    }   
+                }
+            ]
+        }
+    }, 
+    {
+        "nombre":"Asuna",
+        "Estadisticas":{
+            "Fuerza":123,
+            "velocidad":123,
+            "Items":[{
+                    "nombre":"escalibur",
+                    "atributos":{
+                        "filo":"Alto",
+                        "veneno": false,
+                        "Duravilidad":"Alta"
+                    }   
+                }
+            ]
+        }
+    }
+]
