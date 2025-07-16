@@ -10,8 +10,8 @@ public class Main {
     public static void main(String[] args) {
         
         String token = getToken();
-        String popularityOfOasis = getPopularity(token, "4Z8W4fKeB5YxbusRsdQVPb");
-        String popularityOfLinkinPark = getPopularity(token, "6XyY86QOPPrYVGvF9ch6wz");
+        String popularityOfOasis = getPopularity(token, "");
+        String popularityOfLinkinPark = getPopularity(token, "");
             
         int intPopularityOfOasis = Integer.parseInt(popularityOfOasis);
         int intPopularityOfLinkinPark = Integer.parseInt(popularityOfLinkinPark);
@@ -28,8 +28,8 @@ public class Main {
     public static String getToken (){
         StringBuilder token = new StringBuilder();
         try {
-            String clientId = "d0d7bd5ddba64c71918b6a1bdfd4bee9";
-            String clientSecret = "b88fb60d3f6c43b79dc44b6057624300";
+            String clientId = "";
+            String clientSecret = "";
             String auth = clientId + ":" + clientSecret;
 
             // Codificar credenciales en Base64
