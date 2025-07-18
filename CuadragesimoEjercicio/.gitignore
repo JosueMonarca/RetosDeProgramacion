@@ -1,0 +1,4 @@
+*.config
+cuadragesimo/target/..
+*.env
+*.vscode
