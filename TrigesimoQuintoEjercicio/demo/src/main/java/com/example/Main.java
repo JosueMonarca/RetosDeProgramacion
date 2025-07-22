@@ -27,7 +27,7 @@ public class Main {
                         System.out.println("Los enanos tienen "+ sumandos[2] + " anillos");
                         System.out.println("y sauron recibe 1 anillo");
                     }else{
-                        System.out.println("No se puede poner ");
+                        System.out.println("No existe una combinación válida de reparto. ");
                     }
                 }
             } catch (NumberFormatException e) {
