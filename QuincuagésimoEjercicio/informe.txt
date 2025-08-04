@@ -1,0 +1,48 @@
+Enero:
+  [ ] Leer libros (1.0 libro/mes) | Prioridad: 10 | Plazo total: 12 meses
+  [ ] Aprender el curso de POO (1.0 Video/mes) | Prioridad: 9 | Plazo total: 12 meses
+
+Febrero:
+  [ ] Leer libros (1.0 libro/mes) | Prioridad: 10 | Plazo total: 12 meses
+  [ ] Aprender el curso de POO (1.0 Video/mes) | Prioridad: 9 | Plazo total: 12 meses
+
+Marzo:
+  [ ] Leer libros (1.0 libro/mes) | Prioridad: 10 | Plazo total: 12 meses
+  [ ] Aprender el curso de POO (1.0 Video/mes) | Prioridad: 9 | Plazo total: 12 meses
+
+Abril:
+  [ ] Leer libros (1.0 libro/mes) | Prioridad: 10 | Plazo total: 12 meses
+  [ ] Aprender el curso de POO (1.0 Video/mes) | Prioridad: 9 | Plazo total: 12 meses
+
+Mayo:
+  [ ] Leer libros (1.0 libro/mes) | Prioridad: 10 | Plazo total: 12 meses
+  [ ] Aprender el curso de POO (1.0 Video/mes) | Prioridad: 9 | Plazo total: 12 meses
+
+Junio:
+  [ ] Leer libros (1.0 libro/mes) | Prioridad: 10 | Plazo total: 12 meses
+  [ ] Aprender el curso de POO (1.0 Video/mes) | Prioridad: 9 | Plazo total: 12 meses
+
+Julio:
+  [ ] Leer libros (1.0 libro/mes) | Prioridad: 10 | Plazo total: 12 meses
+  [ ] Aprender el curso de POO (1.0 Video/mes) | Prioridad: 9 | Plazo total: 12 meses
+
+Agosto:
+  [ ] Leer libros (1.0 libro/mes) | Prioridad: 10 | Plazo total: 12 meses
+  [ ] Aprender el curso de POO (1.0 Video/mes) | Prioridad: 9 | Plazo total: 12 meses
+
+Septiembre:
+  [ ] Leer libros (1.0 libro/mes) | Prioridad: 10 | Plazo total: 12 meses
+  [ ] Aprender el curso de POO (1.0 Video/mes) | Prioridad: 9 | Plazo total: 12 meses
+
+Octubre:
+  [ ] Leer libros (1.0 libro/mes) | Prioridad: 10 | Plazo total: 12 meses
+  [ ] Aprender el curso de POO (1.0 Video/mes) | Prioridad: 9 | Plazo total: 12 meses
+
+Noviembre:
+  [ ] Leer libros (1.0 libro/mes) | Prioridad: 10 | Plazo total: 12 meses
+  [ ] Aprender el curso de POO (1.0 Video/mes) | Prioridad: 9 | Plazo total: 12 meses
+
+Diciembre:
+  [ ] Leer libros (1.0 libro/mes) | Prioridad: 10 | Plazo total: 12 meses
+  [ ] Aprender el curso de POO (1.0 Video/mes) | Prioridad: 9 | Plazo total: 12 meses
+
